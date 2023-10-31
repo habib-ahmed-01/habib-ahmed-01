@@ -22,9 +22,7 @@
   <br><br>
 
 <p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=habib-ahmed-01&theme=dark&hide_border=true"/>
-  </a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=habib-ahmed-00&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <hr>
